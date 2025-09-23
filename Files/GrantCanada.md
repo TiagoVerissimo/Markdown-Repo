@@ -43,5 +43,5 @@ It will be done by the supervisor.
 | Conference Registration | 100        |
 | Travel (Flight)      | 900       |
 | Accommodation (7 nights) | 700        | -- Still to be confirmed by organizers
-| Daily Expenses (7 days) | 350        |
-| **Total**            | **2050**   |
+| Daily Expenses (7 days) | 300        |
+| **Total**            | **2000**   |
