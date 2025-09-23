@@ -15,7 +15,6 @@ Logical Data: Results, Axioms, Counter-examples
 - Do you use any open data banks ? (Zenodo, Hugging Face,  ...)
 
 # Open Code and Version Control
-- Version control systems like Git were designed for code. What are the practical benefits and drawbacks of using them for the typically non-linear, solitary process of writing a mathematical paper in LaTeX? Have you found it more helpful or more of a hindrance?
 - Platforms like GitHub are meant to facilitate collaboration. Have you successfully used them for a collaborative mathematical project? What were the social or technical pain points you encountered when trying to get your co-authors on board?
 - Is there value in sharing this "messy" intellectual journey, or should we only present the final, polished result?
 - Fear of research being plagerised by other people on GitHub?
